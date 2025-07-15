@@ -40,7 +40,7 @@ This demonstrates the power of **multimodal learning**, where combining differen
 
 ## 📊 **Key Results / Observations**
 
-| Metric | Score (example run) |
+| Metric | Score  |
 |-------|--------------------:|
 | MAE   | ~223,000           |
 | RMSE  | ~301,000           |
