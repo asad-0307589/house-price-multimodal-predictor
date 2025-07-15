@@ -29,7 +29,7 @@ This demonstrates the power of **multimodal learning**, where combining differen
   - Concatenated image features with tabular features into a single combined feature vector
 
 - 📊 **Modeling**:
-  - Trained regression models (e.g., Linear Regression, Random Forest)
+  - Trained regression models (Linear Regression)
   - Split data into training and test sets to evaluate performance
 
 - 📈 **Evaluation metrics**:
